@@ -1,0 +1,6 @@
+@article{REPO042,
+    author = "Liu, Haotian and Li, Chunyuan and Wu, Qingyang and Lee, Yong Jae",
+    journal = "arXiv preprint arXiv:2304.08485",
+    title = "{Visual Instruction Tuning}",
+    year = "2023"
+}
